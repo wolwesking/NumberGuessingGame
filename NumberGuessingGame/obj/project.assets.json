@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Development\\github\\NumberGuessingGame\\NumberGuessingGame\\NumberGuessingGame.csproj",
+      "projectUniqueName": "D:\\Development\\C#\\NumberGuessingGameVS\\NumberGuessingGame\\NumberGuessingGame\\NumberGuessingGame.csproj",
       "projectName": "NumberGuessingGame",
-      "projectPath": "D:\\Development\\github\\NumberGuessingGame\\NumberGuessingGame\\NumberGuessingGame.csproj",
+      "projectPath": "D:\\Development\\C#\\NumberGuessingGameVS\\NumberGuessingGame\\NumberGuessingGame\\NumberGuessingGame.csproj",
       "packagesPath": "C:\\Users\\takac\\.nuget\\packages\\",
-      "outputPath": "D:\\Development\\github\\NumberGuessingGame\\NumberGuessingGame\\obj\\",
+      "outputPath": "D:\\Development\\C#\\NumberGuessingGameVS\\NumberGuessingGame\\NumberGuessingGame\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\takac\\AppData\\Roaming\\NuGet\\NuGet.Config",
