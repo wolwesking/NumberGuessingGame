@@ -1,0 +1,5 @@
+D:\Development\github\NumberGuessingGame\NumberGuessingGame\bin\Release\net6.0\publish\NumberGuessingGame.exe
+D:\Development\github\NumberGuessingGame\NumberGuessingGame\bin\Release\net6.0\publish\NumberGuessingGame.dll
+D:\Development\github\NumberGuessingGame\NumberGuessingGame\bin\Release\net6.0\publish\NumberGuessingGame.deps.json
+D:\Development\github\NumberGuessingGame\NumberGuessingGame\bin\Release\net6.0\publish\NumberGuessingGame.runtimeconfig.json
+D:\Development\github\NumberGuessingGame\NumberGuessingGame\bin\Release\net6.0\publish\NumberGuessingGame.pdb
