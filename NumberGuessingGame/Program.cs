@@ -43,6 +43,8 @@ namespace A_Number_Guessing_Game
                 }
                 Console.Write("Next Guess: ");
             }
+            Console.Write("Press a key to finish!!!");
+            Console.ReadKey();
         }
     }
 }
